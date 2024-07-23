@@ -104,6 +104,7 @@ mypy.ini
 
 # Output Directories
 output/
+outputs/
 
 # Weight Directory
 weights/

@@ -2,3 +2,5 @@ torch
 absl-py
 git+https://github.com/THU-MIG/yolov10.git
 deep-sort-realtime
+huggingface_hub
+setuptools
